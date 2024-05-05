@@ -7,6 +7,8 @@ describe('Monsters Reducer', () => {
     expect(monstersReducer(undefined, { type: undefined })).toEqual({
       monsters: [],
       selectedMonster: null,
+      setSelectedMonsterEnemy: null,
+      battle: null,
     });
   });
 
