@@ -1,5 +1,7 @@
 # Node/React Coding Challenge - Battle of Monsters
 
+If you want to solve this challenge you can clone this repository in the `main` branch. If you want to see my solution, you can see the [`solution`](https://github.com/baguilar6174/node-react-challenge-app/tree/solution) branch.
+
 ## Technologies
 
 This project is built using the Node and React ecosystem libraries; it is good you know the following items to have a good performance:
@@ -45,7 +47,7 @@ For calculating the battle algorithm,  take into account the flow below:
 1. Clone repository on your terminal
 
 ```bash
-git clone https://github.com/baguilar6174/fullstack-assesment-app.git
+git clone https://github.com/baguilar6174/node-react-challenge-app.git
 ```
 
 2. Enter to api folder
